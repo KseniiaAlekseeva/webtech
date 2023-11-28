@@ -3,21 +3,21 @@
 
 	Протокол https.
 
-	![Изображение](img/prot.PNG "Task 1")
+	![Изображение](img/prot.png "Task 1")
 
 2. Проанализируйте структуру страницы сайта. Покажите в коде где хедер, футер и контент.
 	
 	* Header
 
-	![Изображение](img/prot.PNG "Task 2.Header")
+	![Изображение](img/header.png "Task 2.Header")
 
 	* Content
 
-	![Изображение](img/prot.PNG "Task 2.Content")
+	![Изображение](img/content.png "Task 2.Content")
 	
 	* Footer
 
-	![Изображение](img/prot.PNG "Task 2.Footer")
+	![Изображение](img/footer.png "Task 2.Footer")
 
 3. Внесите не менее 3 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало.
 
