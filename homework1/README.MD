@@ -3,32 +3,36 @@
 
 	Протокол https.
 
-	![Изображение](img/prot.PNG "Task 1")
+	![Изображение](img/prot.PNG "Protocol")
 
 2. Проанализируйте структуру страницы сайта. Покажите в коде где хедер, футер и контент.
 	
 	* Header
 
-	![Изображение](img/header.png "Task 2.Header")
+	![Изображение](img/header.png "Header")
 
 	* Content
 
-	![Изображение](img/content.png "Task 2.Content")
+	![Изображение](img/content.png "Content")
 	
 	* Footer
 
-	![Изображение](img/footer.png "Task 2.Footer")
+	![Изображение](img/footer.png "Footer")
 
 3. Внесите не менее 3 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало.
 
 	* Было
 
-	![Изображение](img/before.png "Task 3.Before")
+	![Изображение](img/before.png "Before")
 	
 	* Стало
 
-	![Изображение](img/after.png "Task 2.After")
+	![Изображение](img/after.png "After")
 
 4. Создайте прототип низкой детализации.
 
+	![Изображение](img/prototype.png "Prototype")
+
 5. Зарегистрируйтесь на хостинге.
+
+	![Изображение](img/host.png "Hosting")
